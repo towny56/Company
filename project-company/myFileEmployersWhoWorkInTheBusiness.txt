@@ -1,0 +1,68 @@
+6
+Simeon Todorov Todorov
+bul. A. Malinov
+9 4 0 5 0 6 1 5 7 0
+1 1 2000
+Antonia Todorova Todorova
+starshi programer
+skydiving
+jump around
+visual studio
+adrenalin
+leader
+
+Sofia Ivanova Mihaleva
+Mladost four
+9 7 1 1 0 7 6 0 5 5
+10 10 2010
+Simeon Todorov Todorov
+mladshi programer
+filming crew
+music
+worker
+
+Orlin Marinov Ivanov
+ul. Oborishte
+8 9 0 8 2 4 9 0 3 3
+1 6 2002
+Simeon Todorov Todorov
+mladshi programer
+doctors
+adrenalin
+worker
+
+Adriana Borisova Nikolova
+kv. Nadejda
+9 0 1 2 1 2 4 4 0 9
+1 7 2009
+Orlin Marinov Ivanov
+mladshi tester
+doctors
+visual studio
+adrenalin
+worker
+
+Svetlozar Ignatiev Petrov
+bul. Nezabravka
+8 8 0 4 1 1 7 0 1 3
+1 1 2000
+Antonia Todorova Todorova
+starshi programer
+hotel for pets
+food
+visual studio
+love pets
+leader
+
+Aleksander Georgiev Kolev
+ul Suhata Reka
+9 0 1 0 2 0 1 1 7 8
+4 4 2004
+Antonia Todorova Todorova
+starshi programer
+excursion
+destination
+visual studio
+experience
+leader
+
